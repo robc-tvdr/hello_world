@@ -1,0 +1,1 @@
+cat ("frimmin' on the jimmy-jammy!\nfrippin' at the crotznit!\n")
